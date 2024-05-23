@@ -1,4 +1,6 @@
 {
-  "name": "User",
-  "email": "user@email.com"
+  "profile": {
+      "name": "User",
+      "email": "user@email.com"
+  }
 }
