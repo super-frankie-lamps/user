@@ -2,5 +2,6 @@
   "profile": {
       "name": "User",
       "email": "user@email.com"
-  }
+  },
+  "books": [{"title": "Бедные люди", "author": "Чехов А.П"}, {"title": "Гиперфокус", "author": "Chris Baily"}, {"title": "100 способов...", "author": "Лариса Парфеньева"}]
 }
