@@ -3,5 +3,5 @@
       "name": "User",
       "email": "user@email.com"
   },
-  "books": [{"title": "Бедные люди", "author": "Чехов А.П"}, {"title": "Гиперфокус", "author": "Chris Baily"}, {"title": "100 способов...", "author": "Лариса Парфеньева"}]
+  "books": [{"id": 0, "title": "Бедные люди", "author": "Чехов А.П", "read": true}, {"id": 1, "title": "Гиперфокус", "author": "Chris Baily", "read": false}, {"id": 2, "title": "100 способов...", "author": "Лариса Парфеньева", "read": true}]
 }
